@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848467279457",
+    "firebase_url": "https://andela-assignment-b73cd.firebaseio.com",
+    "project_id": "andela-assignment-b73cd",
+    "storage_bucket": "andela-assignment-b73cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848467279457:android:9f6a4cd7b9d71df9",
+        "android_client_info": {
+          "package_name": "com.example.traveller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848467279457-d7uknig0fnhuqglvkjgospr0idiah5p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.traveller",
+            "certificate_hash": "b361ddb31de31f8b6cceb25fd8d58ac4f91338a3"
+          }
+        },
+        {
+          "client_id": "848467279457-4ethui4sftuuuk5vjg19cjj2crqodni6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJYpXeabE4JU27eLG6WDrMv5Pr7au-cGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848467279457-4ethui4sftuuuk5vjg19cjj2crqodni6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
